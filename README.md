@@ -1,17 +1,6 @@
 # Hospital Management System
 Hospital Management System using MySQL, PHP, and Bootstrap
 
-## Need to work on:
-
-1. Ability for doctors to accept appointments and acknowledge patients that their appointments have been approved.
-2. Prevent users from registering with an already registered email ID.
-3. Encrypt passwords and hide the password field in the admin panel.
-4. Implement pagination for all list views across the application.
-5. Fix bug where bill payment receipt contains multiple records if a patient has multiple visits with the same doctor.
-6. Add more fields in the prescription statement for specificity.
-7. Add more details on payments, such as the date of payment and amount paid.
-8. Implement an export button in the admin module to export all details to an Excel sheet.
-
 ## Prerequisites
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
